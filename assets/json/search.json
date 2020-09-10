@@ -1,0 +1,87 @@
+[
+  
+    {
+      "title"    : "Uncovering the reflexivity in forex market",
+      "tags"     : "Quantitative Finance, Machine Learning",
+      "url"     : "/mysite/blog/fm-reflexivity/",
+      "date"     : "1/8/2020"
+    } ,
+  
+    {
+      "title"    : "Machine learning the fundamentals",
+      "tags"     : "Quantitative Finance, Machine Learning",
+      "url"     : "/mysite/blog/fm-machine-learning-fundamentals/",
+      "date"     : "1/7/2020"
+    } ,
+  
+    {
+      "title"    : "Quantifying social spillovers in scientific careers",
+      "tags"     : "Complex Systems",
+      "url"     : "/mysite/blog/ss-citation-dynamics/",
+      "date"     : "8/6/2020"
+    } ,
+  
+    {
+      "title"    : "Significant hot-hand effect in international cricket",
+      "tags"     : "Quantitative Finance, Complex Systems",
+      "url"     : "/mysite/blog/ss-significant-hot-hand/",
+      "date"     : "1/6/2020"
+    } ,
+  
+    {
+      "title"    : "Tipping points in technology adoption and social convention in the presence of the law of small numbers",
+      "tags"     : "Complex Systems",
+      "url"     : "/mysite/blog/Tipping-points-in-technology-adoption/",
+      "date"     : "1/4/2020"
+    } ,
+  
+    {
+      "title"    : "CoLi : A two-sided mediation platform for CoLiving spaces",
+      "tags"     : "fm",
+      "url"     : "/mysite/blog/fm-coli/",
+      "date"     : "13/2/2020"
+    } ,
+  
+    {
+      "title"    : "Herding Model!",
+      "tags"     : "ss",
+      "url"     : "/mysite/blog/ss-herding-model/",
+      "date"     : "13/2/2019"
+    } ,
+  
+    {
+      "title"    : "News Analysis!",
+      "tags"     : "fm",
+      "url"     : "/mysite/blog/fm-news-analysis/",
+      "date"     : "13/2/2019"
+    } ,
+  
+    {
+      "title"    : "Bubble Diffusion!",
+      "tags"     : "fm",
+      "url"     : "/mysite/blog/fm-bubble-diffusion/",
+      "date"     : "13/2/2019"
+    } ,
+  
+    {
+      "title"    : "Bubble Detection!",
+      "tags"     : "fm",
+      "url"     : "/mysite/blog/fm-bubble-detection/",
+      "date"     : "13/2/2019"
+    } ,
+  
+    {
+      "title"    : "Detection First Arrival!",
+      "tags"     : "eq",
+      "url"     : "/mysite/blog/eq-detection-first-arrival/",
+      "date"     : "13/2/2019"
+    } ,
+  
+    {
+      "title"    : "Sample blog!",
+      "tags"     : "",
+      "url"     : "/mysite/blog/welcome-to-jekyll/",
+      "date"     : "3/10/2001"
+    } 
+  
+]
